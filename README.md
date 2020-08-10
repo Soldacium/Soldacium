@@ -1,7 +1,7 @@
-### Hi there 👋
+# Hi there 👋
 
-## As you can see, my name's Wojciech and I welcome you to my github profile.
-## Here I upload my projects for viewing, most commonly after I've done them.
+## As you can see, my name's Wojciech and I welcome you to my github profile. <br> Here I upload my projects for viewing, most commonly after I've done them.
+   
 
 Feel free to visit [my repositories](https://github.com/Soldacium?tab=repositories) any time you want, check out my code and maybe learn with me? Who knows;
 
