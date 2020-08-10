@@ -6,13 +6,13 @@ Feel free to visit [my repositories](https://github.com/Soldacium?tab=repositori
 
 
 # ALSO, maybe more proper introduction is in order? 🙂
-Well, as of now I am (aspiring) front-end developer/(pending) CS student. I'm 20 years old, and while I'm quite new both to this world as to web development scene, I make my best effort to learn as much as I can, do projects and do them good. I won't bore you with my whole hisotry, but if you want to learn more check out [myWebsite](soldacium.github.io/portfolio)
+Well, as of now I am (aspiring) front-end developer/(pending) CS student. I'm 20 years old, and while I'm quite new both to this world as to web development scene, I make my best effort to learn as much as I can, do projects and do them good. I won't bore you with my whole hisotry, but if you want to learn more check out [myWebsite](https://soldacium.github.io/portfolio)
 
 I enjoy going to gym, biking, hiking, reading books and doing bizzare stuff with my friends whenever I can.
 New expirences and gathering knowledge are my main objectives.
 
 
-# How do I work? 🖥️
+# 🖥️ How do I work? 🖥️
 ** My languages **
 * Web Development
    * HTML
@@ -26,7 +26,7 @@ New expirences and gathering knowledge are my main objectives.
    * C++
   
    
-# Current Projects 💡
+# 💡 Current Projects 💡
 1. ChatAppV1
 2. Travel
 3. Chess AI website
@@ -36,16 +36,22 @@ New expirences and gathering knowledge are my main objectives.
 7. ToDo
 
 
-# Current learning 🌱
+# 🌱 Current learning 🌱
 1. RxJs
 2. Three.js
 3. Angular course on new features and thier usage
 4. Math (discrete math)
 
 
-# Where to find me
+# ✨ Where to find me ✨
+[LinkedIn](https://www.linkedin.com/in/wojciech-bulek-10a7321b3/)
+[Instagram](https://www.instagram.com/wowawil/?hl=pl)
+[myWebsite](https://soldacium.github.io/portfolio)
+
+📫 Email: wojciechwawrzynwil@gmail.com
 
 
+<!--
 **Soldacium/Soldacium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -57,5 +63,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...<!--
+- ⚡ Fun fact: ...
 -->
