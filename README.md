@@ -13,7 +13,7 @@ New expirences and gathering knowledge are my main objectives.
 <br><br><br>
 
 # 🖥️ How do I work? 🖥️
-** My languages **
+**My languages**
 * Web Development
    * HTML
    * CSS
@@ -44,8 +44,8 @@ New expirences and gathering knowledge are my main objectives.
 <br><br><br>
 
 # ✨ Where to find me ✨
-[LinkedIn](https://www.linkedin.com/in/wojciech-bulek-10a7321b3/)
-[Instagram](https://www.instagram.com/wowawil/?hl=pl)
+[LinkedIn](https://www.linkedin.com/in/wojciech-bulek-10a7321b3/) <br>
+[Instagram](https://www.instagram.com/wowawil/?hl=pl) <br>
 [myWebsite](https://soldacium.github.io/portfolio)
 
 📫 Email: wojciechwawrzynwil@gmail.com
