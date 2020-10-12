@@ -6,7 +6,7 @@ Feel free to visit [my repositories](https://github.com/Soldacium?tab=repositori
 <br><br><br>
 
 # ALSO, maybe more proper introduction is in order? 🙂
-Well, as of now I am (aspiring) front-end developer/(pending) CS student. I'm 20 years old, and while I'm quite new both to this world as to web development scene, I make my best effort to learn as much as I can, do projects and do them good. I won't bore you with my whole hisotry, but if you want to learn more check out [myWebsite](https://soldacium.github.io/portfolio)
+Well, as of now I am (aspiring) front-end developer/(pending) CS student. I'm 20 years old, and while I'm quite new both to this world as well as to web dev scene, I make my best effort to learn as much as I can, do projects and do them good. I won't bore you with my whole hisotry, but if you want to learn more check out [myWebsite](https://soldacium.github.io/portfolio)
 
 I enjoy going to gym, biking, hiking, reading books and doing bizzare stuff with my friends whenever I can.
 New expirences and gathering knowledge are my main objectives.
