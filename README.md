@@ -6,14 +6,14 @@ Feel free to visit [my repositories](https://github.com/Soldacium?tab=repositori
 <br><br><br>
 
 # ALSO, maybe more proper introduction is in order? 🙂
-Well, as of now I am (aspiring) front-end developer/(pending) CS student. I'm 20 years old, and while I'm quite new both to this world as well as to web dev scene, I make my best effort to learn as much as I can, do projects and do them good. I won't bore you with my whole hisotry, but if you want to learn more check out [myWebsite](https://soldacium.github.io/portfolio)
+Well, as of now I am (aspiring) front-end developer/(pending) CS student. I'm 20 years old, and while I'm quite new both to this world as well as to web dev scene, I make my best effort to learn as much as I can, make projects and make them good. I won't bore you with my whole hisotry, but if you want to learn more check out [myWebsite](https://soldacium.github.io/portfolio)
 
 I enjoy going to gym, biking, hiking, reading books and doing bizzare stuff with my friends whenever I can.
 New expirences and gathering knowledge are my main objectives.
 <br><br><br>
 
 # 🖥️ How do I work? 🖥️
-**My languages**
+**My skills**
 * Web Development
    * HTML
    * CSS
@@ -21,26 +21,28 @@ New expirences and gathering knowledge are my main objectives.
    * TS
    * Angular
    * RxJs
-* Hobbisitc
+* Back-end
+  * Node.js
+  * MongoDB/mongoose
+  * Express
+  * Firebase
+* For fun
    * Python
    * C++
   <br><br><br>
    
 # 💡 Current Projects 💡
-1. ChatAppV1
-2. Travel
-3. Chess AI website
-4. Drinks design
-5. Survey/deathApp
-6. Aquarium design
-7. ToDo
+1. Math app
+2. Blog V3
+3. Event finder redo
 <br><br><br>
 
-# 🌱 Current learning 🌱
-1. RxJs
-2. Three.js
-3. Angular course on new features and thier usage
-4. Math (discrete math)
+# 🌱 Currently learning 🌱
+1. Full angular features usage (example in math app)
+2. Math and new interesting algorithms
+3. API with python
+4. Large apps tidiness
+5. Better SEO
 <br><br><br>
 
 # ✨ Where to find me ✨
