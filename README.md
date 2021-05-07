@@ -39,7 +39,7 @@ New expirences and gathering knowledge are my main objectives.
 
 # 🌱 Currently learning 🌱
 1. Full angular features usage (example in math app)
-2. Math and new interesting algorithms
+2. Math and new interesting algorithms (Discrete, graph theory)
 3. API with python
 4. Large apps tidiness
 5. Better SEO
