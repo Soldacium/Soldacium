@@ -48,7 +48,8 @@ New expirences and gathering knowledge are my main objectives.
 # ✨ Where to find me ✨
 [LinkedIn](https://www.linkedin.com/in/wojciech-bulek-10a7321b3/) <br>
 [Instagram](https://www.instagram.com/wowawil/?hl=pl) <br>
-[myWebsite](https://soldacium.github.io/portfolio)
+[myWebsite](https://soldacium.github.io/portfolio) <br>
+[CodePen Doodles](https://codepen.io/soldacium)
 
 📫 Email: wojciechwawrzynwil@gmail.com
 
