@@ -34,10 +34,9 @@ Gym, cycling, kayaking, outdoor adventures, and discovering quirky new experienc
 
 📫 Let's connect:
 
-# ✨ Where to find me ✨
 [LinkedIn](https://www.linkedin.com/in/wojciech-bulek-10a7321b3/) <br>
 [myWebsite](https://soldacium.github.io/portfolio) <br>
 
-📫 Email: wojciechwawrzynwil@gmail.com
+Email: wojciechwawrzynwil@gmail.com
 
 <br><br><br>
